@@ -1,0 +1,596 @@
+{
+  "/Users/andrewmkrug/amk.dev/nextjs-example/stories/Button.jsx": {
+    "path": "/Users/andrewmkrug/amk.dev/nextjs-example/stories/Button.jsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 8,
+          "column": 22
+        },
+        "end": {
+          "line": 20,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 9,
+          "column": 15
+        },
+        "end": {
+          "line": 9,
+          "column": 84
+        }
+      },
+      "2": {
+        "start": {
+          "line": 10,
+          "column": 2
+        },
+        "end": {
+          "line": 19,
+          "column": 4
+        }
+      },
+      "3": {
+        "start": {
+          "line": 22,
+          "column": 0
+        },
+        "end": {
+          "line": 43,
+          "column": 2
+        }
+      },
+      "4": {
+        "start": {
+          "line": 45,
+          "column": 0
+        },
+        "end": {
+          "line": 50,
+          "column": 2
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 8,
+            "column": 22
+          },
+          "end": {
+            "line": 8,
+            "column": 23
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 79
+          },
+          "end": {
+            "line": 20,
+            "column": 1
+          }
+        },
+        "line": 8
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 15
+          },
+          "end": {
+            "line": 9,
+            "column": 84
+          }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 9,
+              "column": 25
+            },
+            "end": {
+              "line": 9,
+              "column": 52
+            }
+          },
+          {
+            "start": {
+              "line": 9,
+              "column": 55
+            },
+            "end": {
+              "line": 9,
+              "column": 84
+            }
+          }
+        ],
+        "line": 9
+      },
+      "1": {
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 13
+          },
+          "end": {
+            "line": 14,
+            "column": 51
+          }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 14,
+              "column": 13
+            },
+            "end": {
+              "line": 14,
+              "column": 28
+            }
+          },
+          {
+            "start": {
+              "line": 14,
+              "column": 32
+            },
+            "end": {
+              "line": 14,
+              "column": 51
+            }
+          }
+        ],
+        "line": 14
+      }
+    },
+    "s": {
+      "0": 2,
+      "1": 7,
+      "2": 7,
+      "3": 2,
+      "4": 2
+    },
+    "f": {
+      "0": 7
+    },
+    "b": {
+      "0": [
+        2,
+        5
+      ],
+      "1": [
+        7,
+        0
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "d955abc95b2a24ceee9f13bd513761361396d392"
+  },
+  "/Users/andrewmkrug/amk.dev/nextjs-example/stories/Header.jsx": {
+    "path": "/Users/andrewmkrug/amk.dev/nextjs-example/stories/Header.jsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 7,
+          "column": 22
+        },
+        "end": {
+          "line": 41,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 8,
+          "column": 2
+        },
+        "end": {
+          "line": 40,
+          "column": 11
+        }
+      },
+      "2": {
+        "start": {
+          "line": 43,
+          "column": 0
+        },
+        "end": {
+          "line": 48,
+          "column": 2
+        }
+      },
+      "3": {
+        "start": {
+          "line": 50,
+          "column": 0
+        },
+        "end": {
+          "line": 52,
+          "column": 2
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 7,
+            "column": 22
+          },
+          "end": {
+            "line": 7,
+            "column": 23
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 2
+          },
+          "end": {
+            "line": 40,
+            "column": 11
+          }
+        },
+        "line": 8
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 30,
+            "column": 9
+          },
+          "end": {
+            "line": 37,
+            "column": 9
+          }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 31,
+              "column": 10
+            },
+            "end": {
+              "line": 31,
+              "column": 68
+            }
+          },
+          {
+            "start": {
+              "line": 33,
+              "column": 10
+            },
+            "end": {
+              "line": 36,
+              "column": 13
+            }
+          }
+        ],
+        "line": 30
+      }
+    },
+    "s": {
+      "0": 2,
+      "1": 2,
+      "2": 2,
+      "3": 2
+    },
+    "f": {
+      "0": 2
+    },
+    "b": {
+      "0": [
+        1,
+        1
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "99aa967678225b14c82fffd477216f35b9d33518"
+  },
+  "/Users/andrewmkrug/amk.dev/nextjs-example/stories/Page.jsx": {
+    "path": "/Users/andrewmkrug/amk.dev/nextjs-example/stories/Page.jsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 7,
+          "column": 20
+        },
+        "end": {
+          "line": 61,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 8,
+          "column": 2
+        },
+        "end": {
+          "line": 60,
+          "column": 12
+        }
+      },
+      "2": {
+        "start": {
+          "line": 62,
+          "column": 0
+        },
+        "end": {
+          "line": 67,
+          "column": 2
+        }
+      },
+      "3": {
+        "start": {
+          "line": 69,
+          "column": 0
+        },
+        "end": {
+          "line": 71,
+          "column": 2
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 7,
+            "column": 20
+          },
+          "end": {
+            "line": 7,
+            "column": 21
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 2
+          },
+          "end": {
+            "line": 60,
+            "column": 12
+          }
+        },
+        "line": 8
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 2,
+      "1": 2,
+      "2": 2,
+      "3": 2
+    },
+    "f": {
+      "0": 2
+    },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "d3f941c8757c47ba804e729404758d20c1bfe012"
+  },
+  "/Users/andrewmkrug/amk.dev/nextjs-example/pages/index.js": {
+    "path": "/Users/andrewmkrug/amk.dev/nextjs-example/pages/index.js",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 6,
+          "column": 14
+        },
+        "end": {
+          "line": 6,
+          "column": 60
+        }
+      },
+      "1": {
+        "start": {
+          "line": 7,
+          "column": 15
+        },
+        "end": {
+          "line": 7,
+          "column": 31
+        }
+      },
+      "2": {
+        "start": {
+          "line": 9,
+          "column": 2
+        },
+        "end": {
+          "line": 13,
+          "column": 3
+        }
+      },
+      "3": {
+        "start": {
+          "line": 10,
+          "column": 4
+        },
+        "end": {
+          "line": 12,
+          "column": 5
+        }
+      },
+      "4": {
+        "start": {
+          "line": 15,
+          "column": 2
+        },
+        "end": {
+          "line": 17,
+          "column": 3
+        }
+      },
+      "5": {
+        "start": {
+          "line": 21,
+          "column": 2
+        },
+        "end": {
+          "line": 83,
+          "column": 3
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "getServerSideProps",
+        "decl": {
+          "start": {
+            "line": 5,
+            "column": 22
+          },
+          "end": {
+            "line": 5,
+            "column": 40
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 43
+          },
+          "end": {
+            "line": 18,
+            "column": 1
+          }
+        },
+        "line": 5
+      },
+      "1": {
+        "name": "Home",
+        "decl": {
+          "start": {
+            "line": 20,
+            "column": 24
+          },
+          "end": {
+            "line": 20,
+            "column": 28
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 39
+          },
+          "end": {
+            "line": 84,
+            "column": 1
+          }
+        },
+        "line": 20
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 2
+          },
+          "end": {
+            "line": 13,
+            "column": 3
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 9,
+              "column": 2
+            },
+            "end": {
+              "line": 13,
+              "column": 3
+            }
+          },
+          {
+            "start": {},
+            "end": {}
+          }
+        ],
+        "line": 9
+      },
+      "1": {
+        "loc": {
+          "start": {
+            "line": 31,
+            "column": 59
+          },
+          "end": {
+            "line": 31,
+            "column": 78
+          }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 31,
+              "column": 59
+            },
+            "end": {
+              "line": 31,
+              "column": 63
+            }
+          },
+          {
+            "start": {
+              "line": 31,
+              "column": 67
+            },
+            "end": {
+              "line": 31,
+              "column": 78
+            }
+          }
+        ],
+        "line": 31
+      }
+    },
+    "s": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "f": {
+      "0": 0,
+      "1": 0
+    },
+    "b": {
+      "0": [
+        0,
+        0
+      ],
+      "1": [
+        0,
+        0
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "c1ac2a5d058e9db9b1761587b7e89dc938dbbc7c"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "all": true,
+    "include": [
+        "src/**/*.js",
+        "pages/**/*.js",
+        "stories/**/*.jsx"
+    ],
+    "exclude": [
+        "**/*.spec.js",
+        "stories/**/*.stories.jsx"
+    ]
+}

@@ -8,7 +8,7 @@ export default {
 export const HomePage = (args, { loaded: { name } }) => (
   <Home {...args} name={name} />
 );
-HomePage.args = { name: "John Dough" };
+HomePage.args = {  };
 HomePage.loaders = [
   async () => {
     let data = await getServerSideProps();
